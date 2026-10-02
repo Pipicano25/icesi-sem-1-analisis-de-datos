@@ -1,0 +1,27 @@
+# Entornos virtuales de Python
+.venv/
+venv/
+env/
+.entRCV/
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Medios pesados y comprimidos redundantes
+*.mp4
+*.zip
+
+Presentacion/eda_couse/
+
+# Datos pesados (>100 MB, superan el límite de GitHub)
+Data/RCV/completa.csv

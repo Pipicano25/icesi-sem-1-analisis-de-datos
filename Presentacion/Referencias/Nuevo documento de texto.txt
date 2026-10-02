@@ -1,0 +1,11 @@
+Python Charts. (n.d.). Python Charts - Data visualization with Python 		https://python-charts.com/
+Mathisonian. (n.d.). Kernel Density Estimation. 				https://mathisonian.github.io/kde/
+Ademos. (n.d.). Chapter 22: Exploratory Data Analysis.				https://ademos.people.uic.edu/Chapter22.html
+Ordoñez, A. (n.d.). Basic classification notebook. GitHub			https://github.com/armandoordonez/eda_couse/blob/main/1.0-Basic-Clasification.ipynb
+Ordoñez, A. (n.d.). Introduction to dataset loading in CSV format. GitHub
+
+
+
+
+
+
